@@ -1,0 +1,5 @@
+\.vscode
+*.exe
+*.cpp
+*.py
+\bin
