@@ -18,3 +18,6 @@
 + 代码符合 C++11 标准，且至少需要 C++11
 + 系统相关的部分只考虑 *unix
 
+## pandoc编译指令
+pandoc -N -s --toc --pdf-engine=xelatex -V CJKmainfont='黑体' -V mainfont='Times New Roman' -V geometry:margin=1in al
+l.md -o output.pdf
