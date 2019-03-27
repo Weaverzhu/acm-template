@@ -4,3 +4,8 @@
 *.py
 \bin
 all.md
+*.pdf
+\lab\t.*
+\_minted-t
+t.*
+t.tex

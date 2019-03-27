@@ -19,5 +19,4 @@
 + 系统相关的部分只考虑 *unix
 
 ## pandoc编译指令
-pandoc -N -s --toc --pdf-engine=xelatex -V CJKmainfont='黑体' -V mainfont='Times New Roman' -V geometry:margin=1in al
-l.md -o output.pdf
+pandoc -N -s --toc --pdf-engine=xelatex -V CJKmainfont='黑体' -V mainfont='Consolas' -V geometry:margin=1in all.md -o output.pdf
