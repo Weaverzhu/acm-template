@@ -11,3 +11,4 @@ t.tex
 /pandoc/*-*.md
 /vscode
 /_minted-template
+template.*
