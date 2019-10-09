@@ -1,11 +1,13 @@
 \.vscode
 *.exe
 *.cpp
-*.py
 \bin
 all.md
 *.pdf
-\lab\t.*
+/pandoc/t.*
 \_minted-t
 t.*
 t.tex
+/pandoc/*-*.md
+/vscode
+/_minted-template
